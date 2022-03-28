@@ -21,31 +21,31 @@ Contacts
 
 1. Home Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(117).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(117).png" />
 
 2. About Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(118).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(118).png" />
 
 3. Education Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(119).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(119).png" />
 
 4. Skills Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(120).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(120).png" />
 
 5. Projects Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(121).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(121).png" />
 
 6. Blogs Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(122).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(122).png" />
 
 7. Contacts Section 
 
-<img src = "https://raw.githubusercontent.com/Mahindra-Jayavaram/Mahindra-Portfolio-main/main/Screenshot%20(123).png" />
+<img src = "https://github.com/Mahindra-Jayavaram/Portfolio-Mahindra/blob/main/Portfolio/Screenshot%20(123).png" />
 
 
 
