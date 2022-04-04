@@ -1,6 +1,6 @@
 let projectsSection = document.getElementById("mainDivProjectsSection");
 projectsSection.innerHTML = `
-            <!-- vedix-clone 2.o -->
+            <!-- H&M- Backend-clone  -->
             <div class="eachProjectDiv MailChimp">
                 <p class="ProjectName ">H&M India's-Clone-Backend</p>
                 <div class="ProjectContainer">
@@ -38,7 +38,46 @@ projectsSection.innerHTML = `
                 </div>
             </div>
 
-            <!-- vedix-clone -->
+
+            <!-- reddit - clone -->
+            <div class="eachProjectDiv">
+                <p class="ProjectName">Reddit - Clone</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/reddit1.png" alt="" />
+                    </div>
+                    <div class="projectDescription">
+                        <p>Developed a clone of <a href="https://www.reddit.com/"
+                                style="color: #FFF; text-decoration: underline;" target="_blank">Reddit</a> website.</p>
+                        <br >
+                        <p>Reddit is an American social news aggregation, web content rating, and discussion website. Registered members submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members. It is a collabrative project built by a team of 5 members in 6 days. </p>
+                        </p>
+                        <br>
+                        <u style="font-weight:bold;">TechStack :- </u>
+                        <br>
+                        <div class="techStackProject">
+                            <p><i class="fab fa-html5"></i> HTML</p>
+                            <p><i class="fab fa-css3-alt"></i> CSS</p>
+                            <p> <i class="fab fa-js-square"></i> JS </p>
+                            <p><i class="fab fa-react"></i> React</p>
+                            <p><i class="fab fa-react"></i> Redux</p>
+                            <p> <i class="fab fa-node-js"></i> Node.JS </p>
+                            <p> <i class="fas fa-database"></i> MongoDB </p>
+                            <p> <i class="fab fa-node-js"></i> Express </p>
+                            
+                        </div>
+                        <div class="ProjectLinks">
+                            <a href="https://github.com/sumeet-shinde/Reddit-Clone"
+                                target="_blank"><button>
+                                    Github</button></a>
+                            <a href="https://reddit-main.vercel.app/" target="_blank"><button>Demo</button></a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- H&M-clone -->
             <div class="eachProjectDiv ">
                 <p class="ProjectName ">H&M India's - Clone</p>
                 <div class="ProjectContainer">
@@ -71,38 +110,7 @@ projectsSection.innerHTML = `
                 </div>
             </div>
 
-            <!-- walmart - clone -->
-            <div class="eachProjectDiv">
-                <p class="ProjectName">H&M - Clone</p>
-                <div class="ProjectContainer">
-                    <div class="ProjectImage">
-                        <img src="./images/hm3.png" alt="" />
-                    </div>
-                    <div class="projectDescription">
-                        <p>Developed a clone of <a href="https://www2.hm.com/en_in/index.html"
-                                style="color: #FFF; text-decoration: underline;" target="_blank">H&M</a> website.</p>
-                        <br >
-                        <p>H&M is an e-Commerce website. Which sells the fashion related products. It is a collabrative project with a team of 5 members in the time span of 6 days. We build the basic flow of the user experience of H&M website we also add the sorting and filter functionality.</p>
-                        </p>
-                        <br>
-                        <u style="font-weight:bold;">TechStack :- </u>
-                        <br>
-                        <div class="techStackProject">
-                            <p><i class="fab fa-html5"></i> HTML</p>
-                            <p><i class="fab fa-css3-alt"></i> CSS</p>
-                            <p> <i class="fab fa-js-square"></i> JS </p>
-                            
-                        </div>
-                        <div class="ProjectLinks">
-                            <a href="https://github.com/ThOmas-Saji/H-and-M-Clone-Project"
-                                target="_blank"><button>
-                                    Github</button></a>
-                            <a href="https://elated-volhard-275438.netlify.app/" target="_blank"><button>Demo</button></a>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
 
 
 `;
